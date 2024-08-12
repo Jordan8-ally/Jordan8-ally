@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Jordan8-ally.
-- I'm particularly interest in C++ and machine learning due to its widespread use in the domain of High-Energy Physics.
-- My previous project was on self-organized criticaly in neural networks where I've used Python extensively.
-- My go to programming language is C++ :)
+
