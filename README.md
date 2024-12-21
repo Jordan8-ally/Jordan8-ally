@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A passionate researcher from planet earth, willing to make a meaningful contribution for advancement of our civilization.</h3>
+<h3 align="center">A passionate researcher from planet earth, I have a general understanding of computer architecture, machine learning and cybersecurity. </h3>
 
 <p align="left"> <a href="https://twitter.com/kaustab_k" target="blank"><img src="https://img.shields.io/twitter/follow/kaustab_k?logo=twitter&style=for-the-badge" alt="kaustab_k" /></a> </p>
 
