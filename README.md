@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A passionate researcher from planet earth, willing to make a meaningful contribution for advancement of our civilization.</h3>
+<h3 align="center">Carpe diem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan8-ally&label=Profile%20views&color=0e75b6&style=flat" alt="jordan8-ally" /> </p>
 
