@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing an intrusion detection system.<br>I'm passionate about cybersecurity, machine learning, deep learning and game development.<br>I'm looking to collaborate on unique scientific projects.
+Hi, Jordan here!<br>I'm currently working on developing an intrusion detection system.<br>I'm passionate about cybersecurity, machine learning, deep learning and game development.<br>I'm looking to collaborate on unique scientific projects.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I'm currently working on developing an intrusion detection system.<br>I'm passio
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jordan8-ally&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jordan8-ally&icon=0&color=1)](https://visitcount.itsvg.in)
