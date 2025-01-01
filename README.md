@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Kaustab.<br>I'm currently working on developing an intrusion detection software.<br>I'm passionate about machine learning, deep learning, cybersecurity and game development.<br>I'm looking to collaborate on unique and impactful scientific projects.
+Hi there! I'm Kaustab.<br>I'm currently working on developing an intrusion detection software.<br>I'm looking to collaborate on unique and impactful scientific projects.
 
 
 ## 🌐 Socials:
