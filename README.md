@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan8-ally&label=Profile%20views&color=0e75b6&style=flat" alt="jordan8-ally" /> </p>
 
+<p align="left"> <a href="https://twitter.com/kaustab_k" target="blank"><img src="https://img.shields.io/twitter/follow/kaustab_k?logo=twitter&style=for-the-badge" alt="kaustab_k" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaustab_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustab_k" height="30" width="40" /></a>
@@ -17,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordan8-ally&show_icons=true&locale=en&layout=compact" alt="jordan8-ally" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordan8-ally&show_icons=true&locale=en" alt="jordan8-ally" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordan8-ally&" alt="jordan8-ally" /></p>
